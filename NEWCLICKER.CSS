@@ -1,0 +1,51 @@
+
+#wood{
+    background: url(pics/tree.jpg);
+    border: none;
+    background-position: 50%;
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    padding-left: 145px;
+    padding-right: 145px;
+}
+#stone{
+    background: url(pics/rock.jpg);
+    border: none;
+    padding-left: 145px;
+    padding-right: 145px;
+    background-position: 50%;
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+}
+#metal{
+    background: url(pics/metal.jpg);
+    border: none;
+    padding-left: 145px;
+    padding-right: 145px;
+    background-position: 50%;
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+}
+#electricity{
+    background: url(pics/power.jpg);
+    background-position: 50%;
+    border: none;
+    padding-left: 145px;
+    padding-right: 145px;
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+}
+#Gold{
+    height: 200px;
+    width: 200px;
+    background-size: cover;
+    background: url(pics/gold.jpg)
+}
+span{
+    font-size: 15px;
+    display: inline;
+}
